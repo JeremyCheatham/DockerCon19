@@ -1,2 +1,2 @@
 # DockerCon19
-Random Musings from DockerCon 19
+Random musings from DockerCon 19
